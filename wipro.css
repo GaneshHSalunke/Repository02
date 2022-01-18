@@ -1,0 +1,214 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+.header{
+	height: 90px;
+	width: 100%;
+	background-color: pink;	
+}
+.header .header1{
+	float: left;
+	width: 10%;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+.header .header2{
+	float: right;
+	width: 80%;
+	padding: 20px;
+}
+.header .header2 ul li{
+	display: inline;
+	padding: 10px;
+	font-size: 20px; 
+}
+.section{
+	background-image: url("https://www.wipro.com/content/dam/nexus/en/banner-images/empowering6-1896x275.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 100%;
+}
+.section1{
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-top: 25px;
+	font-size: 25px; 
+}
+.section2{
+	background-image: url("https://www.wipro.com/content/dam/nexus/en/images/homepage-tile.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 35%;
+	float: left;
+	margin-left: 180px; 
+}
+.section2 .p{
+	font-weight: bold;
+	color: #fff;
+	padding-top: 130px;
+	padding-left:30px;
+	font-size:20px;
+	line-height: 5px;
+}
+.section2 .p1{
+	color: #fff;
+	padding-left:30px;
+	font-size:20px;
+}
+.section3{
+	background-image: url("https://www.wipro.com/content/dam/nexus/en/images/wipro-ignite-homepage-v6.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 35%;
+	float: right;
+	margin-right: 180px; 
+}
+.section3 .p{
+	font-weight: bold;
+	color: #fff;
+	padding-top: 70px;
+	padding-left:30px;
+	font-size:20px;
+}
+.section4{
+	background-image:url("https://www.wipro.com/content/dam/nexus/en/images/socr-homepage-tile.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:450px;
+	width:35%;
+	float:left;
+	margin-left: 180px; 
+	margin-top: 50px;
+
+}
+.section4 .p{
+	font-weight:bold;
+	color:#fff;
+	font-size:25px;
+	font-family:"corbel";
+	padding-top: 320px;
+	padding-left: 30px;
+	
+
+}
+.section4 .p1{
+	color:#fff;
+	font-size:20px;
+	font-family:"corbel";
+	
+	padding-left: 30px;
+	
+
+}
+
+.section5{
+	background-image:url("https://www.wipro.com/content/dam/nexus/en/images/relentlessresilience-wiprohp.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:250px;
+	width:35%;
+	float:right;
+	margin-right:180px;
+	margin-top:52px; 
+	
+	
+	
+
+
+}
+.section5 .p{
+	font-weight:bold;
+	color:#fff;
+	font-size:25px;
+	font-family:"corbel";
+	padding-top: 50px;
+	padding-left: 30px;
+	
+
+}
+.section5 .p1{
+	color:#fff;
+	font-size:20px;
+	font-family:"corbel";
+	
+	padding-left: 30px;
+	
+
+}
+.section6{
+	background-image:url("https://www.wipro.com/content/dam/nexus/en/newsroom/win/2020/images/commitment-to-the-future-575x312.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:250px;
+	width:35%;
+	float:left;
+	margin-top:40px;
+	margin-right:200px;
+	margin-left:180px;
+	
+	
+
+
+}
+.section6 .p{
+	font-weight:bold;
+	color:#fff;
+	font-size:25px;
+	font-family:"corbel";
+	padding-top: 90px;
+	padding-left: 30px;
+	
+
+}
+.section6 .p1{
+	color:#fff;
+	font-size:20px;
+	font-family:"corbel";
+	
+	padding-left: 30px;
+	
+
+}
+
+.section7{
+	background-image:url("https://www.wipro.com/content/dam/nexus/en/images/8-stateofautomation-575x540.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:450px;
+	width:35%;
+	float:right;
+	margin-right:180px;
+	margin-top: -450px;
+	
+
+
+}
+.section7 .p{
+	font-weight:bold;
+	color:#fff;
+	font-size:25px;
+	font-family:"corbel";
+	padding-top: 130px;
+	padding-left: 30px;
+	
+
+}
+.section7 .p1{
+	color:#fff;
+	font-size:20px;
+	font-family:"corbel";
+	
+	padding-left: 30px;
+}
+.menu h3{
+	font-size:30px;
+	font-family:"corbel";
+	color:navy;
+	top:1500; 
+	background:red;
+	margin-top:1150;
+}
